@@ -1,0 +1,171 @@
+body {
+
+    margin: 0px;
+    color: #40514E;
+    text-align: center;
+    font-family: 'Merriweather',
+        serif;
+}
+
+
+h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento',
+        cursive;
+}
+
+h2 {
+    padding-bottom: 10px;
+
+    font-weight: normal;
+    color: #66BFBF;
+    font-size: 2.5rem;
+    font-family: 'Montserrat',
+        sans-serif;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat',
+        sans-serif;
+}
+
+
+hr {
+    border-style: none;
+    width: 4%;
+    border-top: 5px dotted #728686;
+    margin: 100px auto;
+
+}
+
+.top-container {
+    background-color: #e5f6f7;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+
+.skill1 {
+    height: 50px;
+    width: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.hacker-icon {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+
+.css-logo {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin: 0px;
+    padding: 50px 0 20px;
+    width: auto;
+
+    color: #EAF6F6;
+
+
+}
+
+a {
+    color: #EAF6F6;
+    font-family: 'Montserrat',
+        sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #11999E;
+    background-color: blanchedalmond;
+
+}
+
+
+.button {
+    margin-top: 10px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    height: 0;
+    line-height: 0;
+    color: #EAF6F6;
+    font-family: Helvetica;
+    width: 98px;
+    font-size: 12px;
+    font-weight: 100;
+    padding: 16px;
+    background-color: #66BFBF;
+
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #66BFBF 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+.button:hover {
+    background: #72CBCB;
+    border: solid #FFFFFF 1px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+.contact-me {
+
+    margin-bottom: 50px;
+}
+
+.contact-me p {
+    margin: 0 auto 30px;
+}
+
+p {
+    margin: 0px;
+    line-height: 2;
+}
